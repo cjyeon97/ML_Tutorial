@@ -1,5 +1,5 @@
 # stanford_dl_ex (ML_Tutorial)
-==============
+
 
 Programming exercises for the Stanford Unsupervised Feature Learning and Deep Learning Tutorial
 
